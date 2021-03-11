@@ -1,0 +1,1 @@
+# git-training-session-git-bash-git-clone
